@@ -1,0 +1,29 @@
+baseURL = 'http://example.org/'
+languageCode = 'es'
+title = 'Mi Sitio Web'
+theme = "m10c"
+
+[[menu.main]]
+    identifier = "Inicio"
+    name = "Inicio"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "content/about/"
+    weight = 2
+
+[params]
+  author = "Raúl González"
+  description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+  menu_item_separator = " - "
+  [[params.social]]
+    icon = "github"
+    name = "Github"
+    url = "https://github.com/gohugoio"
+  [[params.social]]
+    icon = "twitter"
+    name = "Twitter"
+    url = "https://twitter.com/gohugoio"
