@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tutorial on Mi Sitio Web</title>
+    <link>http://example.org/tags/tutorial/</link>
+    <description>Recent content in tutorial on Mi Sitio Web</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Empieza a entender Hugo</title>
+      <link>http://example.org/posts/post2/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/post2/</guid>
+      <description>Paso 1. Instalar Hugo Vaya a Lanzamientos de Hugo y descargue el versión adecuada para su sistema operativo y arquitectura.
+Guárdelo en algún lugar específico, ya que lo usaremos en el siguiente paso.
+Hay instrucciones más completas disponibles en Instalar Hugo
+Paso 2. Cree los documentos Hugo tiene su propio sitio de ejemplo que también es el sitio de documentación. estás leyendo ahora mismo.
+Siga los siguientes pasos:
+Clone el repositorio de Hugo Entra en el repositorio Ejecute hugo en modo servidor y cree los documentos Abra su navegador en http://localhost:1313 Pseudocomandos correspondientes:</description>
+    </item>
+    
+  </channel>
+</rss>

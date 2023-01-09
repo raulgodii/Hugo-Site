@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Mi Sitio Web</title>
+    <link>http://example.org/tags/</link>
+    <description>Recent content in Tags on Mi Sitio Web</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Sun, 08 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>desarrollo</title>
+      <link>http://example.org/tags/desarrollo/</link>
+      <pubDate>Sun, 08 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/desarrollo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>porgramador</title>
+      <link>http://example.org/tags/porgramador/</link>
+      <pubDate>Sun, 08 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/porgramador/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>raul</title>
+      <link>http://example.org/tags/raul/</link>
+      <pubDate>Sun, 08 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/raul/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sobremi</title>
+      <link>http://example.org/tags/sobremi/</link>
+      <pubDate>Sun, 08 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/sobremi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>http://example.org/tags/hugo/</link>
+      <pubDate>Sat, 07 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>info</title>
+      <link>http://example.org/tags/info/</link>
+      <pubDate>Sat, 07 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/info/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>configuracion</title>
+      <link>http://example.org/tags/configuracion/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/configuracion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>docs</title>
+      <link>http://example.org/tags/docs/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/docs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>go</title>
+      <link>http://example.org/tags/go/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>golang</title>
+      <link>http://example.org/tags/golang/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tutorial</title>
+      <link>http://example.org/tags/tutorial/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ipsum</title>
+      <link>http://example.org/tags/ipsum/</link>
+      <pubDate>Wed, 28 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/ipsum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lorem</title>
+      <link>http://example.org/tags/lorem/</link>
+      <pubDate>Wed, 28 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/lorem/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
