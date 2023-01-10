@@ -27,3 +27,9 @@ theme = "m10c"
     icon = "twitter"
     name = "Twitter"
     url = "https://twitter.com/gohugoio"
+
+  [params.style]
+  darkestColor = "#242930"
+  darkColor = "#353b43"
+  lightColor = "#afbac4"
+  lightestColor = "#ffffff"
